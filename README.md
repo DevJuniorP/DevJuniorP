@@ -2,7 +2,7 @@
 ### Olá, eu sou Gilmar Júnior 🚀 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilmar-peron-9211b2245/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devjuniorp/)
 
 ![Gilmar Júnior Github Stats](https://github-readme-stats.vercel.app/api?username=devjunior&show_icons=true&theme=tokyonight)
 
